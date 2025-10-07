@@ -6,9 +6,7 @@ As a Software Engineer with a major in Computer Science from Institut Teknologi 
 
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chankiel&theme=darkhub&row=1" alt="chankiel" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Profile Trophy">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chankiel&theme=dracula" alt="chankiel" />
