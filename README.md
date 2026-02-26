@@ -6,14 +6,17 @@ As a Software Engineer with a major in Computer Science from Institut Teknologi 
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Profile Trophy">
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chankiel&theme=dracula" alt="chankiel" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chankiel&show_icons=true&locale=en&theme=tokyonight" alt="chankiel" />
-</p>
+<div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
+  <div style="display: flex; flex-direction: row;">
+      <img height="160px" style="padding: 5px;"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=chankiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      <img height="160px" style="padding: 5px;"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chankiel&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </div>
+  </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
