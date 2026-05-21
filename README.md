@@ -5,9 +5,6 @@
 As a Software Engineer with a major in Computer Science from Institut Teknologi Bandung, I dedicate significant time to pursuing challenges and continuous learning. Driven by my passion for technology and programming, I focus on web development and broader areas of software engineering. I am committed to staying up to date with the latest industry trends and technological advancements, consistently striving to apply my knowledge to create innovative solutions.
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chankiel&theme=dracula" alt="chankiel" />
-</p>
 <div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
   <div style="display: flex; flex-direction: row;">
       <img height="160px" style="padding: 5px;"
